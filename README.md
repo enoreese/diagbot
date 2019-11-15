@@ -31,3 +31,14 @@ Diagnosis was made using Infermedica's API (https://developer.infermedica.com/)
 2. run './ngrok http 5050'
 3. Copy Forwarding URL
 4. (in dialogflow) Click Fulfillment > insert URL in 3. into URL* field
+
+
+## How to report bugs
+* If you find any issues, please open a bug here on GitHub
+
+## How to make contributions?
+Contact me via email osas.usen@gmail.com
+
+## License
+See LICENSE.md
+

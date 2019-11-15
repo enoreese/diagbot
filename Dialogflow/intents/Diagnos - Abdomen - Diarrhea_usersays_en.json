@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6eeb70df-4219-4e76-bbfe-a2978a982c24",
+    "data": [
+      {
+        "text": "its diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7bd92d7d-c703-49bb-8da6-4aa903d4326c",
+    "data": [
+      {
+        "text": "diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

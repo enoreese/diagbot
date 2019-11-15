@@ -1,0 +1,42 @@
+{
+  "id": "6033e401-7356-413b-bd32-8dac07a732a9",
+  "parentId": "e5bf7fbe-ad93-4a2b-8a6d-bb39b18493ae",
+  "rootParentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "Diagnos - Abdomen - Diarrhea - 1-5",
+  "auto": true,
+  "contexts": [
+    "Diagnos-Abdomen-Diarrhea-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diagnos.Diagnos-custom.Diagnos-Abdomen-custom.Diagnos-Abdomen-Diarrhea-custom",
+      "affectedContexts": [
+        {
+          "name": "Diagnos-Abdomen-Diarrhea-1-5-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Okay. How is your stooling? (Blood, Mucus, Green, Watery, Brown)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

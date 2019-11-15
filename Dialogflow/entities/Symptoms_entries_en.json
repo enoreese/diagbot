@@ -1,0 +1,89 @@
+[
+  {
+    "value": "Burn",
+    "synonyms": [
+      "Burn",
+      "Hot",
+      "burn",
+      "heart burn",
+      "hot",
+      "on fire"
+    ]
+  },
+  {
+    "value": "Cold",
+    "synonyms": [
+      "Cold",
+      "chills",
+      "cold"
+    ]
+  },
+  {
+    "value": "Dizzyness",
+    "synonyms": [
+      "Dizzyness",
+      "Nausea",
+      "dizzy",
+      "nausea"
+    ]
+  },
+  {
+    "value": "Fever",
+    "synonyms": [
+      "Fever",
+      "High Temperature",
+      "fever",
+      "high temperature",
+      "running temperature"
+    ]
+  },
+  {
+    "value": "Headaches",
+    "synonyms": [
+      "Headaches",
+      "head ache",
+      "headaches"
+    ]
+  },
+  {
+    "value": "Indigestion",
+    "synonyms": [
+      "Indigestion",
+      "indigestion"
+    ]
+  },
+  {
+    "value": "Pain",
+    "synonyms": [
+      "Pain",
+      "hurts",
+      "pain",
+      "paining"
+    ]
+  },
+  {
+    "value": "Stooling",
+    "synonyms": [
+      "Purging",
+      "purge",
+      "stooling"
+    ]
+  },
+  {
+    "value": "Sweating",
+    "synonyms": [
+      "Sweating",
+      "sweat",
+      "sweating"
+    ]
+  },
+  {
+    "value": "Vomit",
+    "synonyms": [
+      "Throw up",
+      "Vomit",
+      "throw up",
+      "vomit"
+    ]
+  }
+]

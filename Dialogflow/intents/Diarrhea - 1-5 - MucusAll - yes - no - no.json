@@ -1,0 +1,37 @@
+{
+  "id": "be4c2491-6192-4402-b4f4-6960a121a70f",
+  "parentId": "98c1b566-df08-4dc1-a46e-e31c9a3d911f",
+  "rootParentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "Diarrhea - 1-5 - MucusAll - yes - no - no",
+  "auto": true,
+  "contexts": [
+    "Diagnos-Abdomen-Diarrhea-1-5-MucusAll-yes-no-followup",
+    "Diarrhea-1-5-MucusAll-yes-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diagnos.Diagnos-custom.Diagnos-Abdomen-custom.Diagnos-Abdomen-Diarrhea-custom.Diagnos-Abdomen-Diarrhea-1-5-custom.Diagnos-Abdomen-Diarrhea-1-5-MucusAll-yes.Diagnos-Abdomen-Diarrhea-1-5-MucusAll-yes-no.Diarrhea-1-5-MucusAll-yes-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Flagly Tablets 400mg TDS, Tetracycline Tablets 500mg TDS and Oral hydration therapy \n\nTDS - Three Times Daily"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "242836b2-dfc6-4276-9817-9288564a5077",
+  "parentId": "537f17b1-ac30-4597-ac50-1442e088dc96",
+  "rootParentId": "537f17b1-ac30-4597-ac50-1442e088dc96",
+  "name": "Create Appointment - yes",
+  "auto": true,
+  "contexts": [
+    "CreateAppointment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "confirmAppointment.yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Your appointment has been made!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

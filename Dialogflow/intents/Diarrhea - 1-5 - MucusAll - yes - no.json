@@ -1,0 +1,47 @@
+{
+  "id": "98c1b566-df08-4dc1-a46e-e31c9a3d911f",
+  "parentId": "d6fedbfd-062b-4ad2-95a7-2f555d11888c",
+  "rootParentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "Diarrhea - 1-5 - MucusAll - yes - no",
+  "auto": true,
+  "contexts": [
+    "Diagnos-Abdomen-Diarrhea-1-5-MucusAll-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diagnos.Diagnos-custom.Diagnos-Abdomen-custom.Diagnos-Abdomen-Diarrhea-custom.Diagnos-Abdomen-Diarrhea-1-5-custom.Diagnos-Abdomen-Diarrhea-1-5-MucusAll-yes.Diagnos-Abdomen-Diarrhea-1-5-MucusAll-yes-no",
+      "affectedContexts": [
+        {
+          "name": "Diagnos-Abdomen-Diarrhea-1-5-MucusAll-yes-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "Diarrhea-1-5-MucusAll-yes-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Okay. Have you eaten food that might be spoiled or did someone else eat the same food and become ill too?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

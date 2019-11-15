@@ -1,0 +1,42 @@
+{
+  "id": "269d7418-6374-4a37-8e63-1358fc5e8ae1",
+  "parentId": "5f5d57fd-610f-4a01-8c1d-45b31808abe5",
+  "rootParentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "Diagnos - Abdomen - Pain - Upper",
+  "auto": true,
+  "contexts": [
+    "Diagnos-Abdomen-Pain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diagnos.Diagnos-custom.Diagnos-Abdomen-custom.Diagnos-Abdomen-Pain-custom",
+      "affectedContexts": [
+        {
+          "name": "Diagnos-Abdomen-Pain-Upper-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Okay. Do you feel any of these? (Indigestion, Heartburn, Nausea)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "e5bf7fbe-ad93-4a2b-8a6d-bb39b18493ae",
+  "parentId": "782101e2-8831-4d3e-986f-58c52feda0b0",
+  "rootParentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "Diagnos - Abdomen - Diarrhea",
+  "auto": true,
+  "contexts": [
+    "Diagnos-Abdomen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diagnos.Diagnos-custom.Diagnos-Abdomen-custom",
+      "affectedContexts": [
+        {
+          "name": "Diagnos-Abdomen-Diarrhea-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Got that. How many times in the last 24 hours? (1-5, 5-10, more than 10)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

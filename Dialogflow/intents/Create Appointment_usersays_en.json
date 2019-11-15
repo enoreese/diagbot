@@ -1,0 +1,334 @@
+[
+  {
+    "id": "6983a0aa-5bd2-4e05-9879-93ef0adf3baa",
+    "data": [
+      {
+        "text": "steveadeshina@yahoo.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04b14c98-d1bc-44d9-a00d-c73a86903e7d",
+    "data": [
+      {
+        "text": "steve.adeshina@nileuniversity.edu.ng",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a5daf67-8e49-4209-95ee-740bd52722e0",
+    "data": [
+      {
+        "text": "tgrema@yahoo.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f7d1f8a-c09f-4cdc-9e5e-c10d4c4e6fb1",
+    "data": [
+      {
+        "text": "nagwu@nileuniversity.edu.ng",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "954430f3-ea7c-4af4-8bb6-61d09df6b193",
+    "data": [
+      {
+        "text": "osas.usen@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c94af599-a893-4b31-9ba0-8c8a546f5a91",
+    "data": [
+      {
+        "text": "my email ",
+        "userDefined": false
+      },
+      {
+        "text": "test@example.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2d0a1ca-942a-4b0a-841f-a702bbd60f8b",
+    "data": [
+      {
+        "text": "Saturday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "70a2c22b-438d-475f-bc6c-9ca3c13f9775",
+    "data": [
+      {
+        "text": "7:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3903f85f-25be-4df9-891e-3bccfddf88e8",
+    "data": [
+      {
+        "text": "5am",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb19bf4c-249e-40fc-b393-779ae2244f0c",
+    "data": [
+      {
+        "text": "4pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5cde73fc-93c7-4d3f-acf3-140ee4d5949b",
+    "data": [
+      {
+        "text": "i won book appointment with doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3753fffe-5813-4525-ad5c-025e85f6c6ef",
+    "data": [
+      {
+        "text": "i won see doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29c21f6b-1f98-43af-8371-38cd45916708",
+    "data": [
+      {
+        "text": "book an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c4a94ae-f1cd-41b1-b564-0400bbb3dacf",
+    "data": [
+      {
+        "text": "i want to see a doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea08ad84-6ca6-4e30-9174-2af2cc6e29df",
+    "data": [
+      {
+        "text": "2347088289121",
+        "alias": "phoneNumber",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3efabc8a-263a-4e12-b042-708a2ce183bb",
+    "data": [
+      {
+        "text": "08132283209",
+        "alias": "phoneNumber",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a130a5d-6bb5-40f0-b080-caff79bb6c26",
+    "data": [
+      {
+        "text": "08033072730",
+        "alias": "phoneNumber",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49e2c6b0-936c-4161-a19c-6da6da7c74e8",
+    "data": [
+      {
+        "text": "07088289121",
+        "alias": "phoneNumber",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ed7db80-b988-4cf6-8689-e37cc2a3667b",
+    "data": [
+      {
+        "text": "I would like to set an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "3pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on Tuesday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0406522e-7330-4a80-9f68-c31742430a95",
+    "data": [
+      {
+        "text": "Need an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "4pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9119fd2e-9755-409f-8d80-ce24fa7ed90f",
+    "data": [
+      {
+        "text": "Set an appointment ",
+        "userDefined": false
+      },
+      {
+        "text": "on Wednesday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 2pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

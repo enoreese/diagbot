@@ -1,0 +1,49 @@
+{
+  "id": "856f17f9-7856-4db5-8a43-dbee210200f2",
+  "name": "Prescribe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "prescribe",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "950045a1-e396-4929-9b92-4bfb9e26f87b",
+          "required": false,
+          "dataType": "",
+          "name": "condition",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#prescribe.condition",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "prescribe"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

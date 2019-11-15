@@ -1,0 +1,42 @@
+{
+  "id": "5e67e516-8214-462d-837b-196adf92bafc",
+  "parentId": "269d7418-6374-4a37-8e63-1358fc5e8ae1",
+  "rootParentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "Diagnos - Abdomen - Pain - Upper - yes",
+  "auto": true,
+  "contexts": [
+    "Diagnos-Abdomen-Pain-Upper-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diagnos.Diagnos-custom.Diagnos-Abdomen-custom.Diagnos-Abdomen-Pain-custom.Diagnos-Abdomen-Pain-Upper-yes",
+      "affectedContexts": [
+        {
+          "name": "Diagnos-Abdomen-Pain-Upper-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "What\u0027s the severity of the pain from 1-10?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

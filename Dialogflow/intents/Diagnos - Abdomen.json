@@ -1,0 +1,55 @@
+{
+  "id": "782101e2-8831-4d3e-986f-58c52feda0b0",
+  "parentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "rootParentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "Diagnos - Abdomen",
+  "auto": true,
+  "contexts": [
+    "Diagnos-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diagnos.Diagnos-custom",
+      "affectedContexts": [
+        {
+          "name": "Diagnos-Abdomen-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7cc45ea2-a0a3-495b-93df-c7b4af7ba851",
+          "required": false,
+          "dataType": "@BodyPart",
+          "name": "BodyPart",
+          "value": "$BodyPart",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Do you have any of this symptoms ( Pain or Diarrhea)?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

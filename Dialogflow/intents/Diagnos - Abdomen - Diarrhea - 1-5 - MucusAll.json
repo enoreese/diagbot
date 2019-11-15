@@ -1,0 +1,42 @@
+{
+  "id": "51fdabdf-9909-4ed0-a2bb-f6f6ce50e86f",
+  "parentId": "6033e401-7356-413b-bd32-8dac07a732a9",
+  "rootParentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "Diagnos - Abdomen - Diarrhea - 1-5 - MucusAll",
+  "auto": true,
+  "contexts": [
+    "Diagnos-Abdomen-Diarrhea-1-5-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diagnos.Diagnos-custom.Diagnos-Abdomen-custom.Diagnos-Abdomen-Diarrhea-custom.Diagnos-Abdomen-Diarrhea-1-5-custom",
+      "affectedContexts": [
+        {
+          "name": "Diagnos-Abdomen-Diarrhea-1-5-MucusAll-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Are you nauseated or vomiting?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

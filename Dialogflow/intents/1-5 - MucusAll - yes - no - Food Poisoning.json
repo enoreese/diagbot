@@ -1,0 +1,42 @@
+{
+  "id": "3020ca6f-23f6-4d99-a0a5-9451919ce93c",
+  "parentId": "98c1b566-df08-4dc1-a46e-e31c9a3d911f",
+  "rootParentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "1-5 - MucusAll - yes - no - Food Poisoning",
+  "auto": true,
+  "contexts": [
+    "Diagnos-Abdomen-Diarrhea-1-5-MucusAll-yes-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diagnos.Diagnos-custom.Diagnos-Abdomen-custom.Diagnos-Abdomen-Diarrhea-custom.Diagnos-Abdomen-Diarrhea-1-5-custom.Diagnos-Abdomen-Diarrhea-1-5-MucusAll-yes.Diagnos-Abdomen-Diarrhea-1-5-MucusAll-yes-no.Diagnos-Abdomen-Diarrhea-1-5-MucusAll-yes-no-yes",
+      "affectedContexts": [
+        {
+          "name": "Diagnos-Abdomen-Diarrhea-1-5-MucusAll-yes-no-FoodPoisoning-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You may have FOOD POISONING. \n\nMost problems caused by food poisoning will clear up within 12 to 48 hours. In the meantime, drink plenty of fluids to avoid dehydration. Children should be given an oral rehydration solution (ORS). Avoid solid foods until the diarrhea goes away.\n\nIf your symptoms last longer than 48 hours, or you’re very uncomfortable, call your doctor"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

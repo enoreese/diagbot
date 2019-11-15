@@ -1,0 +1,36 @@
+{
+  "id": "c37991a5-adc0-4436-b454-57b3b3be62f6",
+  "parentId": "51fdabdf-9909-4ed0-a2bb-f6f6ce50e86f",
+  "rootParentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "Diagnos - Abdomen - Diarrhea - 1-5 - MucusAll - no",
+  "auto": true,
+  "contexts": [
+    "Diagnos-Abdomen-Diarrhea-1-5-MucusAll-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diagnos.Diagnos-custom.Diagnos-Abdomen-custom.Diagnos-Abdomen-Diarrhea-custom.Diagnos-Abdomen-Diarrhea-1-5-custom.Diagnos-Abdomen-Diarrhea-1-5-MucusAll-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Please see a doctor!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

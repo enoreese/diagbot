@@ -1,0 +1,70 @@
+[
+  {
+    "value": "Arms",
+    "synonyms": [
+      "Arm",
+      "Arms",
+      "Elbow",
+      "arm",
+      "hand",
+      "hands"
+    ]
+  },
+  {
+    "value": "Breast",
+    "synonyms": [
+      "Breast",
+      "boobs",
+      "breast",
+      "breasts"
+    ]
+  },
+  {
+    "value": "Chest",
+    "synonyms": [
+      "Chest",
+      "chest",
+      "torso"
+    ]
+  },
+  {
+    "value": "Head",
+    "synonyms": [
+      "Brain",
+      "Head",
+      "brain",
+      "forehead",
+      "head"
+    ]
+  },
+  {
+    "value": "Heart",
+    "synonyms": [
+      "Heart",
+      "heart"
+    ]
+  },
+  {
+    "value": "Legs",
+    "synonyms": [
+      "Legs",
+      "feet",
+      "foot",
+      "leg"
+    ]
+  },
+  {
+    "value": "Stomach\u0027",
+    "synonyms": [
+      "Belle",
+      "Belly",
+      "Stomach\u0027",
+      "bele",
+      "belle",
+      "belly",
+      "bely",
+      "stomac",
+      "stomach"
+    ]
+  }
+]

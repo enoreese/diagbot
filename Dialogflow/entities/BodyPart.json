@@ -1,0 +1,9 @@
+{
+  "id": "8c5ae5b1-7b3d-4d88-8da7-b9681ee4489a",
+  "name": "BodyPart",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,42 @@
+{
+  "id": "d6fedbfd-062b-4ad2-95a7-2f555d11888c",
+  "parentId": "51fdabdf-9909-4ed0-a2bb-f6f6ce50e86f",
+  "rootParentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "Diagnos - Abdomen - Diarrhea - 1-5 - MucusAll - yes",
+  "auto": true,
+  "contexts": [
+    "Diagnos-Abdomen-Diarrhea-1-5-MucusAll-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diagnos.Diagnos-custom.Diagnos-Abdomen-custom.Diagnos-Abdomen-Diarrhea-custom.Diagnos-Abdomen-Diarrhea-1-5-custom.Diagnos-Abdomen-Diarrhea-1-5-MucusAll-yes",
+      "affectedContexts": [
+        {
+          "name": "Diagnos-Abdomen-Diarrhea-1-5-MucusAll-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Sorry to hear that. Did your symptoms begin 30 minutes to 2 hours after eating or drinking dairy products?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

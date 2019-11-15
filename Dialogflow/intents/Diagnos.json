@@ -1,0 +1,78 @@
+{
+  "id": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "Diagnos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Diagnos-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "aa577cae-de13-4ed9-a311-1b712c2aced8",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "name": "age",
+          "value": "$age",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Whats your age?"
+            },
+            {
+              "lang": "en",
+              "value": "Age please..."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "fca66ea4-dd61-4f9a-bada-3f98b3e7f27e",
+          "required": true,
+          "dataType": "@Gender",
+          "name": "gender",
+          "value": "$gender",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Gender please..."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Alright. What part of your body do you feel the pain?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

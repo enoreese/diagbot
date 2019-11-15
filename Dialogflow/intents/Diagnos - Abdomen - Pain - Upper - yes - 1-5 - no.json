@@ -1,0 +1,36 @@
+{
+  "id": "33c75698-c3f1-49c0-8d33-4c5077771239",
+  "parentId": "fc7e6be1-0c26-42d7-918a-4503023cb70f",
+  "rootParentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "Diagnos - Abdomen - Pain - Upper - yes - 1-5 - no",
+  "auto": true,
+  "contexts": [
+    "Diagnos-Abdomen-Pain-Upper-yes-1-5-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diagnos.Diagnos-custom.Diagnos-Abdomen-custom.Diagnos-Abdomen-Pain-custom.Diagnos-Abdomen-Pain-Upper-yes.Diagnos-Abdomen-Pain-Upper-yes-custom.Diagnos-Abdomen-Pain-Upper-yes-1-5-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Your predicted condition is Gastric Ulcer. \n\nOmepragile Tablets 20mg 2x daily for 14days.\nArithromycin Tablets 500g 2x daily for 14days.\nAmoxicin Tablets 500g 300g 3x daily for 14days."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

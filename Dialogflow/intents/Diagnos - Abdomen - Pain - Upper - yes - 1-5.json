@@ -1,0 +1,42 @@
+{
+  "id": "fc7e6be1-0c26-42d7-918a-4503023cb70f",
+  "parentId": "5e67e516-8214-462d-837b-196adf92bafc",
+  "rootParentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "Diagnos - Abdomen - Pain - Upper - yes - 1-5",
+  "auto": true,
+  "contexts": [
+    "Diagnos-Abdomen-Pain-Upper-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diagnos.Diagnos-custom.Diagnos-Abdomen-custom.Diagnos-Abdomen-Pain-custom.Diagnos-Abdomen-Pain-Upper-yes.Diagnos-Abdomen-Pain-Upper-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "Diagnos-Abdomen-Pain-Upper-yes-1-5-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Alright. Is the pain always there?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

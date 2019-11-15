@@ -1,0 +1,67 @@
+[
+  {
+    "id": "dfc870c9-613c-4f0b-aa75-95dc4747dd27",
+    "data": [
+      {
+        "text": "when be my next appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84277f7d-8611-4380-b213-f7678cc7f9e4",
+    "data": [
+      {
+        "text": "when i go see doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "028015e0-5fab-428d-8717-1da887282d81",
+    "data": [
+      {
+        "text": "i get any appointment ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdb0a319-3777-4c06-875b-001d951bfd2f",
+    "data": [
+      {
+        "text": "next appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3315a867-80b0-4357-b928-780a3e347828",
+    "data": [
+      {
+        "text": "when is my appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

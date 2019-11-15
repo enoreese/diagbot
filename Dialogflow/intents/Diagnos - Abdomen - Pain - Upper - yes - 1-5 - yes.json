@@ -1,0 +1,36 @@
+{
+  "id": "278fa006-cc4e-47c7-bc0b-32a66dc07080",
+  "parentId": "fc7e6be1-0c26-42d7-918a-4503023cb70f",
+  "rootParentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "Diagnos - Abdomen - Pain - Upper - yes - 1-5 - yes",
+  "auto": true,
+  "contexts": [
+    "Diagnos-Abdomen-Pain-Upper-yes-1-5-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diagnos.Diagnos-custom.Diagnos-Abdomen-custom.Diagnos-Abdomen-Pain-custom.Diagnos-Abdomen-Pain-Upper-yes.Diagnos-Abdomen-Pain-Upper-yes-custom.Diagnos-Abdomen-Pain-Upper-yes-1-5-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Go and see a doctor!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

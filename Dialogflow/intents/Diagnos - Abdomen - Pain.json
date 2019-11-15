@@ -1,0 +1,42 @@
+{
+  "id": "5f5d57fd-610f-4a01-8c1d-45b31808abe5",
+  "parentId": "782101e2-8831-4d3e-986f-58c52feda0b0",
+  "rootParentId": "1d814391-e089-44cb-8e47-e94b25c8d946",
+  "name": "Diagnos - Abdomen - Pain",
+  "auto": true,
+  "contexts": [
+    "Diagnos-Abdomen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diagnos.Diagnos-custom.Diagnos-Abdomen-custom",
+      "affectedContexts": [
+        {
+          "name": "Diagnos-Abdomen-Pain-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Sorry about that. What part of your abdomen? (Upper Middle, Left, Right)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

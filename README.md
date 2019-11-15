@@ -8,6 +8,15 @@ Diagnosis Chatbot made with Dialogflow and Python
 4. In terminal, 'cd' (change directory) into DiagBot folder
 5  run 'pip install -r requirements.txt'
 
+## Dialogflow Setup
+1. Create an account on Dialogflow
+2. Create a new Dialogflow agent
+3. Restore the dialogflow-agent.zip ZIP file in the root of this repo
+4. Go to your agent's settings and then the Export and Import tab
+5  Click the Restore from ZIP button
+6. Select the dialogflow-agent.zip ZIP file in the root of this repo
+7  Type RESTORE and and click the Restore button
+
 ## Run Package
 ### PyCharm
 1. Change directory into DiagBot folder

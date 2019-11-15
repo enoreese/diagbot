@@ -1,5 +1,6 @@
 # Diagbot
-Diagnosis Chatbot made with Dialogflow and Python
+Diagnosis Chatbot made using Google's Dialogflow (https://dialogflow.com) and Python for Fulfillment (Flask) (http://flask.palletsprojects.com/en/1.1.x/)
+Diagnosis was made using Infermedica's API (https://developer.infermedica.com/)
 
 ## Installing
 1. ensure you have python3.6 installed
